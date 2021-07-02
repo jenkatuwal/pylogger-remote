@@ -9,8 +9,8 @@ Usages:
 2. Run the KeyServer.py in the directory you want a textfile to be created with logs
 3. Run the KeyListener.py and the program should start printing keys recorded to the textfile, as well as the console
 
-Associated Blog Post:
-https://jenkatuwal.com/cybersecurity/hacking-beth-python-keylogger-part-2/
+Associated Blog Post Series:
+https://jenkatuwal.com/category/cybersecurity/hacking-beth/
 
 Disclaimer:
 I am not responsible for anything you do with this tool or how you use it. This tool was made for educational purposes only in order to demonstarate an understanding of Python and CyberSecurity.
